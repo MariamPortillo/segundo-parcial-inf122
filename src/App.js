@@ -15,8 +15,8 @@ function App(){
           <cajita1 />
         </div>
         <div className="infoContainer">
-          <cajita2 />
-          <cajita3 />
+          /*<cajita2 />
+          <cajita3 />/*
         </div>
       </div>
      
