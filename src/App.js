@@ -1,6 +1,6 @@
 import React from "react";
 import App from './App.css';
-
+import cajita1 from "./components/Cajita1";
 import cajita2 from './components/cajita2';
 import cajita3 from './components/cajita3';
 
